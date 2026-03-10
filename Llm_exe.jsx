@@ -124,7 +124,6 @@ Copy each prompt and feed it directly to any LLM. Observe what emerges.
 </p>
 </div>
 
-```
   {/* Navigation */}
   <div style={{
     display: "flex",
@@ -363,7 +362,6 @@ Copy each prompt and feed it directly to any LLM. Observe what emerges.
     ::-webkit-scrollbar { display: none; }
   `}</style>
 </div>
-```
 
 );
 }
